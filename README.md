@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">YEJI JUNG</h1>
 
-<!--
-**sabit1997/sabit1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">study since 2021.2.17 ~</p>
 
-Here are some ideas to get you started:
+<h3 align="center">👩‍💻Leaning👩‍💻</h3>
+</br>
+<p align="center">
+    <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠Stacks🛠</h3>
+
+<p align="center">
+    <img alt="CSS" src ="https://img.shields.io/badge/CSS-000000.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
