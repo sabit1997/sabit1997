@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20&fontSize=90)
 </br>
 </br>
 
@@ -9,11 +9,9 @@
 ### 👩‍💻Leaning👩‍💻
 
 </br>
-<div align="center">
-    <img src="https://img.shields.io/badge/Node.js
--339933?style=for-the-badge&logo=Node.js
-&logoColor=black">
-</div>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+
 </br>
 </br>
 
