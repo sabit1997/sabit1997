@@ -1,8 +1,8 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20&fontSize=90)
 </br>
 </br>
-
-<div align="center">
 
 # 안녕하세요. 정예지 입니다.
 
