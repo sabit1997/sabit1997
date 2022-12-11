@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20&fontSize=90)
+</br>
+</br>
 
-<center>
-</br>
-</br>
+<div align="center">
 
 # 안녕하세요. 정예지 입니다.
 
@@ -37,4 +37,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabit1997)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</div>
