@@ -16,7 +16,7 @@
 
 </br>
 </br>
-<a href="https://yejilog-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://yejilog-mu.vercel.app/">
 <img alt="Static Badge" src="https://img.shields.io/badge/BLOG-A6B37D?style=social&logo=github&logoSize=auto&link=https%3A%2F%2Fyejilog-mu.vercel.app%2F">
 </a>
 
